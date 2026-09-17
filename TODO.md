@@ -6,14 +6,14 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 
 | # | Status | File | Pages | Result |
 | --- | --- | --- | --- | --- |
-| 1 | ☐ | `COSMIC Answer Keys/ABC/COSMIC ABC ANS KEY.pdf` | 35 | |
-| 2 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 1.pdf` | 2 | |
-| 3 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 2.pdf` | 2 | |
-| 4 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 4.pdf` | 2 | |
-| 5 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 5.pdf` | 2 | |
-| 6 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 6.pdf` | 2 | |
-| 7 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 7.pdf` | 2 | |
-| 8 | ☐ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 8.pdf` | 2 | |
+| 1 | ☑ | `COSMIC Answer Keys/ABC/COSMIC ABC ANS KEY.pdf` | 35 | cosmic-abc.md |
+| 2 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 1.pdf` | 2 | cosmic-abc-review-worksheet-1.md |
+| 3 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 2.pdf` | 2 | cosmic-abc-review-worksheet-2.md |
+| 4 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 4.pdf` | 2 | cosmic-abc-review-worksheet-4.md |
+| 5 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 5.pdf` | 2 | cosmic-abc-review-worksheet-5.md |
+| 6 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 6.pdf` | 2 | cosmic-abc-review-worksheet-6.md |
+| 7 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 7.pdf` | 2 | cosmic-abc-review-worksheet-7.md |
+| 8 | ☑ | `COSMIC Answer Keys/ABC/REVIEW Worksheet 8.pdf` | 2 | cosmic-abc-review-worksheet-8.md |
 | 9 | ☑ | `COSMIC Answer Keys/B1/COSMIC_SB Power Book 1 A.K.pdf` | 24 | cosmic-b1-sb-power-book.md |
 | 10 | ☑ | `COSMIC Answer Keys/B1/COSMIC_Thinker Power Book 1 A.K.pdf` | 24 | cosmic-b1-thinker-power-book.md |
 | 11 | ☑ | `COSMIC Answer Keys/B1/COSMIC-Reader-B1-answer key.pdf.pdf` | 27 | cosmic-b1-reader.md |
@@ -62,15 +62,15 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 | 54 | ☑ | `COSMIC Answer Keys/B6/COSMIC_SB6 Power Book A.K.pdf` | 24 | cosmic-b6-sb-power-book.md |
 | 55 | ☑ | `COSMIC Answer Keys/B6/COSMIC_Thinker Power Book 6 A.K.pdf` | 24 | cosmic-b6-thinker-power-book.md |
 | 56 | ☑ | `COSMIC Answer Keys/B6/SB 6 - Listening Audioscript.pdf` | 5 | evidence for cosmic-b6-sb.md |
-| 57 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 1 Answer Keys.pdf` | 14 | |
-| 58 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 2 Answer Keys.pdf` | 14 | |
-| 59 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 3 Answer Keys.pdf` | 14 | |
-| 60 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 4 Answer Keys.pdf` | 13 | |
-| 61 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 5 Answer Keys.pdf` | 14 | |
-| 62 | ☐ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 6 Answer Keys.pdf` | 14 | |
-| 63 | ☐ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 1 ANS KEY.pdf` | 7 | |
-| 64 | ☐ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 2 ANS KEY.pdf` | 7 | |
-| 65 | ☐ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 3 ANS KEY.pdf` | 7 | |
+| 57 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 1 Answer Keys.pdf` | 14 | cosmic-lp-sb1.md |
+| 58 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 2 Answer Keys.pdf` | 14 | cosmic-lp-sb2.md |
+| 59 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 3 Answer Keys.pdf` | 14 | cosmic-lp-sb3.md |
+| 60 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 4 Answer Keys.pdf` | 13 | cosmic-lp-sb4.md |
+| 61 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 5 Answer Keys.pdf` | 14 | cosmic-lp-sb5.md |
+| 62 | ☑ | `COSMIC Answer Keys/cosmic LP 1-6/COSMIC LP SB 6 Answer Keys.pdf` | 14 | cosmic-lp-sb6.md |
+| 63 | ☑ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 1 ANS KEY.pdf` | 7 | cosmic-placement-test-1.md |
+| 64 | ☑ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 2 ANS KEY.pdf` | 7 | cosmic-placement-test-2.md |
+| 65 | ☑ | `COSMIC Answer Keys/cosmic placement test 1-3/COSMIC Placement Test 3 ANS KEY.pdf` | 7 | cosmic-placement-test-3.md |
 | 66 | ☑ | `COSMIC Answer Keys/cosmic quiz 1-6/audioscript/COSMIC_Quiz SB1 - Audioscript.pdf` | 3 | evidence for cosmic-quiz-sb1.md |
 | 67 | ☑ | `COSMIC Answer Keys/cosmic quiz 1-6/audioscript/COSMIC_Quiz SB2 - Audioscript.pdf` | 4 | evidence for cosmic-quiz-sb2.md |
 | 68 | ☑ | `COSMIC Answer Keys/cosmic quiz 1-6/audioscript/COSMIC_Quiz SB3 - Audioscript.pdf` | 4 | evidence for cosmic-quiz-sb3.md |
