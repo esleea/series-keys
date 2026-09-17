@@ -102,12 +102,12 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 | 94 | ☑ | `COSMIC Answer Keys/cosmic quiz starter/COSMIC_STARTER_Grammar_Worksheet_Ans Key.pdf` | 8 | cosmic-starter-grammar-worksheet.md |
 | 95 | ☑ | `COSMIC Answer Keys/cosmic quiz starter/COSMIC_STARTER_SB_Quiz_Ans Key.pdf` | 12 | cosmic-quiz-starter-sb.md |
 | 96 | ☑ | `COSMIC Answer Keys/cosmic quiz starter/COSMIC_STARTER_Vocabulary_Worksheet_Ans Key.pdf` | 8 | cosmic-starter-vocabulary-worksheet.md |
-| 97 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Activity Book_Answer Keys.pdf` | 23 | |
-| 98 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Learning Passport_Answer Keys.pdf` | 16 | |
-| 99 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_SB Powerbook_Answer Keys.pdf` | 16 | |
-| 100 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_SB_Answer Keys.pdf` | 37 | |
-| 101 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Thinker Powerbook_Answer Keys.pdf` | 16 | |
-| 102 | ☐ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Thinker_Answer Keys.pdf` | 19 | |
+| 97 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Activity Book_Answer Keys.pdf` | 23 | cosmic-starter-activity-book.md |
+| 98 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Learning Passport_Answer Keys.pdf` | 16 | cosmic-starter-learning-passport.md |
+| 99 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_SB Powerbook_Answer Keys.pdf` | 16 | cosmic-starter-sb-power-book.md |
+| 100 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_SB_Answer Keys.pdf` | 37 | cosmic-starter-sb.md |
+| 101 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Thinker Powerbook_Answer Keys.pdf` | 16 | cosmic-starter-thinker-power-book.md |
+| 102 | ☑ | `COSMIC Answer Keys/STARTER/COSMIC_STARTER_Thinker_Answer Keys.pdf` | 19 | cosmic-starter-thinker.md |
 | 103 | ☑ | `G-STAR Answer Keys/B1/audioscript/GSTAR_B1_Mock Test 1_Audioscript.pdf` | 2 | evidence for gstar-b1-mock-test-1.md |
 | 104 | ☑ | `G-STAR Answer Keys/B1/audioscript/GSTAR_B1_Mock Test 2_Audioscript.pdf` | 3 | evidence for gstar-b1-mock-test-2.md |
 | 105 | ☑ | `G-STAR Answer Keys/B1/audioscript/GSTAR_B1_Powerbook_Audioscript.pdf` | 8 | evidence for gstar-b1-pb.md |
