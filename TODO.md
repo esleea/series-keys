@@ -119,7 +119,7 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 | 111 | ☑ | `G-STAR Answer Keys/B1/GSTAR_B1_PB_Answer Key.pdf` | 39 | gstar-b1-pb.md |
 | 112 | ☑ | `G-STAR Answer Keys/B1/GSTAR_B1_SB_Answer Key.pdf` | 31 | gstar-b1-sb.md |
 | 113 | ☑ | `G-STAR Answer Keys/B1/GSTAR_B1_Test Book_Answer Key.pdf` | 24 | gstar-b1-test-book.md |
-| 114 | ⏸ | `G-STAR Answer Keys/B1/GSTAR_B1_Test Paper_Answer Key.pdf` | 9 | gstar-b1-test-paper.md (partial; needs the Test Paper booklet) |
+| 114 | ⏸ | `G-STAR Answer Keys/B1/GSTAR_B1_Test Paper_Answer Key.pdf` | 9 | gstar-b1-test-paper.md (partial; booklet done 17 Sept — needs the key PDF and script back on disk to compare the reading keys of Lessons 1–3, 5–8) |
 | 115 | ☑ | `G-STAR Answer Keys/B1/GSTAR_B1_Writer_Answer Key.pdf` | 21 | gstar-b1-writer.md |
 | 116 | ☑ | `G-STAR Answer Keys/B2/audioscript/GSTAR_B2_Mock Test 1_Audioscript.pdf` | 4 | evidence for gstar-b2-mock-test-1.md |
 | 117 | ☑ | `G-STAR Answer Keys/B2/audioscript/GSTAR_B2_Mock Test 2_Audioscript.pdf` | 2 | evidence for gstar-b2-mock-test-2.md |
@@ -149,5 +149,5 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 | 141 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Powerbook_Answer Key.pdf` | 39 | gstar-starter-pb.md |
 | 142 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_SB_Answer Key.pdf` | 31 | gstar-starter-sb.md |
 | 143 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Test Book_Answer Key.pdf` | 22 | gstar-starter-test-book.md |
-| 144 | ⏸ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Test Paper_Answer Key.pdf` | 9 | gstar-starter-test-paper.md (partial; needs the Test Paper booklet) |
+| 144 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Test Paper_Answer Key.pdf` | 9 | gstar-starter-test-paper.md (two probable key errors; confirm on the key) |
 | 145 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Writer_Answer Key.pdf` | 20 | gstar-starter-writer.md |
