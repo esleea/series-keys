@@ -4,6 +4,8 @@ One result file per PDF, same format as `results/control-2026-09-16/`. Audioscri
 
 Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a filled answer sheet without the question pages; the user will supply the booklet.
 
+Rows 146–148 (18 September 2026): audioscripts supplied after the first pass, outside the corpus folders (`~/Desktop/proodreading-pdfs/`); each was read as evidence for its answer key and proofread on its own, and the three result files were re-issued.
+
 | # | Status | File | Pages | Result |
 | --- | --- | --- | --- | --- |
 | 1 | ☑ | `COSMIC Answer Keys/ABC/COSMIC ABC ANS KEY.pdf` | 35 | cosmic-abc.md |
@@ -151,3 +153,6 @@ Status marks: ☐ to do · ☑ result written · ⏸ parked — the PDF is a fil
 | 143 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Test Book_Answer Key.pdf` | 22 | gstar-starter-test-book.md |
 | 144 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Test Paper_Answer Key.pdf` | 9 | gstar-starter-test-paper.md (two probable key errors; confirm on the key) |
 | 145 | ☑ | `G-STAR Answer Keys/STARTER/GSTAR_STARTER_Writer_Answer Key.pdf` | 20 | gstar-starter-writer.md |
+| 146 | ☑ | `proodreading-pdfs/ABC - Listening Audioscript.pdf` | 15 | evidence for cosmic-abc.md (ABK-05 to ABK-07 found; ABK-01, Q01–Q03 settled) |
+| 147 | ☑ | `proodreading-pdfs/Reader B1 (Phonics 1) - Listening Audioscript.pdf` | 8 | evidence for cosmic-b1-reader.md (all listening keys agree) |
+| 148 | ☑ | `proodreading-pdfs/Reader B2 (Phonics 2) - Listening Audioscript.pdf` | 6 | evidence for cosmic-b2-reader.md (all listening keys agree) |
