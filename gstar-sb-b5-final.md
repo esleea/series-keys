@@ -199,7 +199,7 @@ blog `I prefer having a nice view to living in a big space` (p4).
 | 20 | `the 700-page long story` | `the 700-page-long story` |
 | 21 | Lock-IT `Feature:` with a dangling fourth blank | `Features:` with three numbered blanks |
 | 22 | `Horoscopes also make predictions` | `Horoscopes make predictions` |
-| 24 | `You have to use a codename.` | `You must use code names.` |
+| 24 | `You have to use a codename.` | `You have to use a code name.` (corrected 29 Sep by a free audit; first written as `You must use code names.`) |
 | 30 | `people blow all the fuzzy white seeds` | `a person blows…` |
 | 35 | `all our efforts are not wasted tomorrow`; `neither can you all` | `…not wasted`; `neither can you` |
 | 40 | `I have always been active ever since I was a kid.` | `I have been active since I was a kid.` |
