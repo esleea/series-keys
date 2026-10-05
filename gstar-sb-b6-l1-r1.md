@@ -11,11 +11,11 @@ The file is an Adobe Acrobat image conversion (one 300 dpi JPEG per page) with *
 Physical page 1 is the cover and 2 the contents spread. Physical N (3–19) holds printed pages
 2N−5 and 2N−4: L1 printed 1–8, L2 9–16, L3 17–24, L4 25–32, Review 1 33–34.
 
-**Not supplied, so not checked:**
-- The audioscript, so the eight listening exercises on printed pages 5, 13, 21 and 29 are proofread for wording only.
-- The answer key.
-
-**Review 1 is only two pages** (33–34), and the file ends there. SB5's Review 1 ran to four pages. Confirm whether Review 1 continues.
+**Manuscript (added the same day):** the Google Doc `1318Kwnn6LnxiCxN2O6qQd4zNfjSj68__iNL1omWtnfs`, exported as text (199,839 bytes, sha256 `39923b1b23462868fd5bc091bfe533a60856efc633fd1d684a546fe79f96d144`). It is the whole SB6 manuscript with the audioscripts inline. Every listening item on printed pages 5, 13, 21 and 29 was solved from it (see "Listening"), and the print was compared with it.
+- **Most print errors listed below are also in the manuscript,** so fix both.
+- **Two are print-only:** SB6-03 and SB6-Q03.
+- **The manuscript's Review 1 has Exercises 1–4 only,** so printed pages 33–34 are the whole review.
+- **The answer key** was not supplied.
 
 Conformance is judged against the committed G-Star syllabus:
 - **Grammar:** the SB6 grammar headings in `data/transcriptions/gstar-sb-6/`, and the SB-ST to SB5 headings in `data/series/pages/` and `data/transcriptions/`.
@@ -44,7 +44,7 @@ books and its own earlier lessons have taught.
 | --- | --- | --- | --- | --- |
 | SB6-Q01 | 7 | L1 Reading CQ 4 `In the sixth paragraph, why did Regina talk about being sick at home?` | The posts hold six paragraphs: two per post. "At home, being sick meant …" is in the **fifth** paragraph, the first of post 3/3. The sixth paragraph is the phone call | `In the fifth paragraph, …` |
 | SB6-Q02 | 24 | L3 Speaking Ex2 `Fill the empty boxes below with Reporting Verbs from page 10.` | The reporting-verb tables are on **page 18**. Page 10 is the L2 vocabulary and grammar | `… from page 18.` |
-| SB6-Q03 | 18 | L3 Grammar | The table `Some Reporting Verbs Followed by Object + To-Infinitive` (advise, convince, … warn) is **printed twice**, identically. The second copy is almost certainly meant to be another pattern, such as verb + that-clause (explain, confirm, insist that…). `confirm` appears in the bingo grid on p24 but in no table | Replace the second table with the intended pattern, or delete it |
+| SB6-Q03 | 18 | L3 Grammar | The table `Some Reporting Verbs Followed by Object + To-Infinitive` (advise, convince, … warn) is **printed twice**, identically. The manuscript's fourth table is **`Some Reporting Verbs Followed by That`**: add, answer, remark, explain, doubt, argue, reveal, confirm. The print lost it. Its verbs are needed: `confirm` is in the p24 bingo, and `add`, `answer` and `reveal` are Review 1 Ex2 options. A print-only fault | Replace the second copy with the manuscript's `Followed by That` table |
 | SB6-Q04 | 33 | Review 1 Ex2 example | The prompt is `James said, "Let's go to the cafe. It'll be fun!"`, but the model answer is `Jonas convinced me to go to the cafe.` The name changes (Jonas comes from Ex1's example) | `James convinced me to go to the cafe.` |
 | SB6-Q05 | 34 | Review 1 Ex4 item 3 | `What did he do to keep his side of your bargain?` | `… to keep his side of the bargain?` |
 | SB6-Q06 | 31 | L4 Reading CQ 4 `What does hazardous mean …?` a `dangerous` / c `risky` | Two options are right: *risky* is as good a gloss as *dangerous* | Replace c with a clearly wrong option (e.g. `expensive`) |
@@ -56,7 +56,7 @@ books and its own earlier lessons have taught.
 | --- | --- | --- | --- |
 | SB6-01 | 12 | L2 Usage 3 go-bag: `a first-aid kid` | `a first-aid kit` |
 | SB6-02 | 18 | L3 Vocabulary 5 `fond of (v)` | `fond of (phr)` (or `adj`); *fond* is not a verb |
-| SB6-03 | 2 | L1 Grammar Note `We also use ought to express probability` | `We also use ought to to express probability` (or `We also use "ought to" to …`) |
+| SB6-03 | 2 | L1 Grammar Note `We also use ought to express probability` | `We also use ought to to express probability`, as the manuscript has it. A print-only fault |
 | SB6-04 | 3 | L1 Usage 2 `We should be informed … earlier` (about something that already happened) | `We should have been informed … earlier` (see SB6-C02: the perfect modal is L5) |
 | SB6-05 | 3 | L1 Usage 2 `can't afford waiting` | `can't afford to wait` |
 | SB6-06 | 3 | L1 Usage 1 `I had been watering it for you since you were away` | `… while you were away` |
@@ -112,11 +112,45 @@ books and its own earlier lessons have taught.
 | SB6-G03 | 15 | `Extensively means in large size or amount.` for `has written extensively about` | Here it means at length, in detail | `Extensively means a lot and in great detail.` |
 | SB6-G04 | 19 | `To commission means to assign someone for a task.` | A commission is paid, formal work | `To commission means to officially ask and pay someone to make something.` |
 
+## Listening (solved from the manuscript audioscripts)
+
+### Keys
+
+| Lesson | Exercise | Answers |
+| --- | --- | --- |
+| L1 p5 | Ex1 | 1 studying · 2 ambitious · 3 being underestimated · 4 prove herself · 5 promising student |
+| L1 p5 | Ex2 (print order) | 1 c Mr. Hall · 2 c Sep 2 · 3 c website · 4 b meeting room |
+| L2 p13 | Ex1 timeline | (an) important exam · make some money back · Monday · side of the bargain · Q1 It was very rude (of him). · Q2 He forgot to pay Carol. |
+| L2 p13 | Ex2 | 1 d · 2 d · 3 b · 4 a, c |
+| L3 p21 | Ex1 | 1 b · 2 b · 3 a · 4 a |
+| L3 p21 | Ex2 | (a new) arcade · always gets on his nerves. · revealed that he was lying. · being at fault. · refuses to · hesitates |
+| L4 p29 | Ex1 | group projects / clubs · devote their time and effort · Respect · keeping their word · occupied with · demanding |
+| L4 p29 | Ex2 | 1 C · 2 B · 3 D · 4 A |
+
+Every item has a single answer the script supports, except L4 Ex2 Q3 (SB6-L06).
+
+### Faults
+
+| Id | Where | Fault | Fix |
+| --- | --- | --- | --- |
+| SB6-L01 | L4 audio Ex2 Q1 (p29) | `It is her whom I trust in any circumstance.` — an it-cleft, **this lesson's target**, with a mismatched pronoun pair. Learners copy the model | `It is Susan whom I trust in any circumstance.` (or `It's Susan I trust …`) |
+| SB6-L02 | L2 audio Ex1 (p13) | Bobby: `that's very rude for him to do`. **This contradicts L2's own Grammar Note:** *of* goes with an adjective that describes behavior, and the table has `It is rude of her to …`. It is also the answer to the printed Q1 | `It's very rude of him to do that.` |
+| SB6-L03 | L1 Ex2 (p5) | **The order differs from the manuscript.** The manuscript asks the place question first (`Where does the monolog probably take place?`); the print moves it to item 4 and renumbers the rest. If the recording or the key numbers the questions, they no longer match | Confirm against the recording and key; keep one order in all three |
+| SB6-L04 | L1 audio Ex2 (p5) | `My name is Donna Stewart. I'd been working here for over fifteen years.` There is no past reference point; the past perfect continuous is forced in | `I've been working here for over fifteen years.` |
+| SB6-L05 | L1 Ex2 Q1 (p5) | Options a `Ms. Stewart` and d `Donna` are the same person (the speaker, Donna Stewart), shown as two different women | Rename one distractor (e.g. `Ms. Lee`) |
+| SB6-L06 | L4 Ex2 Q3 (audio) | `What caused the man to miss the movie?` He did not miss it: he was offered the next showing and chose a refund. And B `The movie screen was damaged` also caused the schedule change. Keyed D (the ticketing website) | `What caused the problem with the man's seats?` |
+| SB6-L07 | L2 audio Ex2 (p13) | `Welcome to the science laboratorium`; `Some chemicals can make us sick if we inhale it.` | `laboratory`; `inhale them` |
+| SB6-L08 | L4 audio Ex1 (p29) | `devote their time and effort to improve the residents' quality of life` (as in the reading, SB6-43) | `to improving` |
+| SB6-L09 | Gap sentences, p5, p13, p21 | A sentence that ends at a blank has no full stop before the next sentence: L1 Ex1 2 `Emily has always been ___ She always works hard`; L3 Ex2 `behavior ___ He added`, `Robert ___ He actually`; L2 Ex1 `To ___ she decided` (no comma) | Add `.` after each blank (`,` in L2) |
+| SB6-L10 | L3 audio | `helping them with studies`; `bring her some fruits`; `In the end, he revealed that he was lying.` | `with their studies`; `some fruit`; `had been lying` |
+| SB6-L11 | L4 audio Ex2 Q4 | `so we can install it in your room` (a table) | `put it in your room` |
+| SB6-L12 | L3 Ex2 (p21) | The print drops the manuscript bullet `Robert planned to buy new tickets but they were sold out.` Nothing depends on it | none (recorded so it is not flagged) |
+
 ## Conformance and forward reference
 
 | Id | Rule | Printed page | Finding | Class | Action |
 | --- | --- | --- | --- | --- | --- |
-| SB6-C01 | 3 | 2 | The L1 Grammar table pairs `ought to` with `carelessly`. *Careless* is taught in **SB6 L6**, and the combination `ought to … carelessly` makes no sense either | error (in a grammar box) | Replace it with an adverb that fits the obligation, such as `carefully` |
+| SB6-C01 | 3 | 2 | The L1 Grammar table reads `She ought to prepare her application carefully. / She ought not prepare her application carelessly.` (as the manuscript confirms). *Careless* is taught in **SB6 L6**, but it is a common word, read only in an example, so this is not above the level. The real fault is `ought not prepare` (SB6-13) | editorial | `She ought not to prepare her application carelessly.` |
 | SB6-C02 | 2 | 3 | L1 Usage 2 needs the perfect modal *should have been informed* (SB6-04). *Could / must / might + have* is **SB6 L5**, and *should have* is not in any earlier heading | editorial (read only) | Rewrite with a structure taught by L1: `They ought to inform students earlier.` |
 | SB6-C03 | 2 | 4 | L1 Usage 3 `You ought to have some questions` reads as *ought to have* (+ object). Students meet the L5 perfect-modal pattern in L1 with a different meaning | editorial | Fixed by SB6-08 |
 | SB6-C04 | 3b | 14–15 | The L2 reading (`psychiatrist`, `cortisol`, `fight-or-flight`, `false positive/negative`, `dehydration`, `malnutrition`, `seizures`) is the densest passage in the unit. It is a science text, and four terms are glossed or tabled, so the unglossed `cortisol`, `dehydration`, `malnutrition` and `seizures` are borderline domain words | editorial | Gloss `dehydration` and `seizures` |
@@ -152,21 +186,20 @@ Things checked and found clean for forward reference:
 | SB6-E16 | 21 | L3 Listening Ex1 2c `She's having allergies from the hospital food`; 3c `Michelle's headache is because she sleeps too long` | `She is allergic to the hospital food`; `… is caused by sleeping too long` |
 | SB6-E17 | 22 | `Some evolution theories`; `after a 10-hour isolation`; E `predators like birds or lions`; `share a candy` | `evolutionary theories`; `after 10 hours alone`; `like wolves or lions`; `a piece of candy` |
 | SB6-E18 | 24 | L3 bingo grid mixes `asked` and `said` with base forms (`remind`, `confirm`, `decide`) | One form throughout |
-| SB6-E19 | 29 | L4 Listening Ex2 prints options with no question stems; L1–L3 print the stems | Confirm that the audio carries the questions |
+| SB6-E19 | 29 | L4 Listening Ex2 prints options with no question stems; L1–L3 print them. The manuscript confirms that the audio reads each question (`Question: …`), so this is a layout choice | none |
 | SB6-E20 | 30 | `Nurses spend most of each shift being on their feet`; `long shift hours that can last up to 12 hours a day`; `To be a nurse, someone requires a degree` | `on their feet`; `long shifts that can last 12 hours`; `a nurse needs a degree` |
 | SB6-E21 | 31 | `waste water`; `$150,000-$300,000`, `$35,000-$50,000`, `No. 1-2` (p13) | `wastewater`; en dashes |
 | SB6-E22 | 33 | Review Ex2 item 1 `"I've never doubted you from the start," said Tom.` | `"I've never doubted you, right from the start," …` |
 
 ## Not verifiable here
 
-- **Listening, pages 5, 13, 21 and 29:** no audioscript was supplied. The stems are proofread above, but the keys and the item order against the audio are not checked.
-- **Answer key:** not supplied.
-- **Review 1 beyond page 34:** not in the file.
+- **Answer key:** not supplied. The listening keys are solved above for checking against it.
 
 ## Summary
 
-- 7 item or reference faults. The worst are SB6-Q01 (the CQ points at the wrong paragraph), Q02 (the bingo sends students to page 10 instead of 18) and Q03 (a duplicated reporting-verb table, so one pattern is missing).
+- 7 item or reference faults. The worst are SB6-Q01 (the CQ points at the wrong paragraph), Q02 (the bingo sends students to page 10 instead of 18) and Q03 (the print lost the `Followed by That` table and repeats another in its place).
 - 48 language errors, including `first-aid kid`, `fond of (v)`, `ought to express`, and the tense slips in the L1 letter and the L4 news post.
 - 4 wrong glosses.
-- Conformance: 1 forward-reference error (C01, `carelessly` in the L1 grammar box) and 5 editorial. Every lesson practises its own headings.
+- Listening: all 32 items solved from the manuscript. There are 11 faults. The worst are L01 (the L4 cleft model `It is her whom`), L02 (the L2 audio says `rude for him`, against the lesson's own rule) and L03 (the L1 Ex2 order differs from the manuscript).
+- Conformance: no forward-reference errors. There are 5 editorial points, and C01 (`carelessly`) was downgraded after the manuscript showed the table is sound. Every lesson practises its own headings.
 - 22 editorial candidates, including the unfinished August Reed illustration (E14).
