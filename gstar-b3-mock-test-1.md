@@ -109,6 +109,45 @@ Key: physical 3–5 = key pages 1–3 (answer sheet with answers), 6 = criteria,
 | B3M1-E15 | Key p3, Part 12 model | It covers the chart well, but spends one sentence on the importance and benefits the task asks for | Add one benefit sentence (travel, jobs, friends) |
 | B3M1-E16 | Audioscript | Zero-width characters (U+200B) appear after many lines (the Google Docs export) | Harmless in print; strip if the script is reused as data |
 
+## Conformance and forward reference (against G-Star Student Book 3)
+
+The syllabus comes from the committed G-Star core in rdbeast:
+- **Words:** `data/series/g-star-lexical-resolution.json`, read 30 Sep 2026: SB3 component `86bd922c`, ten words per lesson, plus Starter, Books 1–2 and Books 4–6.
+- **Grammar:** the SB3 grammar notes in `data/series/pages/g-star-sb-3-sections.json`, with the Book 1, 2, 5 and 6 headings for comparison.
+
+I could not reach the live core, because the Atlas CLI session has expired. These files are the 30 Sep snapshot of that core.
+
+The test is scoped to **SB3 Lessons 1–4**, the first half of the book. Every one of the 40 target words from L1–L4 appears in the test. Only five words from later lists appear, and all five are common words:
+
+| SB3 lesson | Grammar taught | Words (all 10 appear in the test unless marked) |
+| --- | --- | --- |
+| L1 We've Already Paid the Bill | present perfect with already / yet / still | check in, check out, tour guide, excellent, pay the bill (only as `pay … the bills`), fill out, reserve a table, modern, resort, book a room |
+| L2 Feeling Confident, She Gave a Speech | participle phrases (present / past) | confident, presentation, creative, stand out, inspire, brave, motivation, designer, achievement, speech |
+| L3 The Girl Who Speaks English Is Self-Taught | relative pronouns who / whom / whose / that / which | textbook, useful, professional, beginner, proud of, certificate, language, earn, self-taught, internet |
+| L4 She Said That the Street Market Was Lively | reported speech (statements and questions; time, place and person shifts) | food stand, festival, explore, facility, lively, popular, parade, go sightseeing, memorable, street market |
+
+Rules as in the quality pipeline's CONFORMANCE check:
+- **(1) Lesson target:** the items must practise the lessons' grammar.
+- **(2) Taught so far:** a structure the student must produce or select is an error; one only read or heard is editorial.
+- **(3) Vocabulary:** a tested word must be taught.
+- **(3b) Reading level:** each passage is judged as a whole.
+
+| Id | Rule | Where | Finding | Class | Suggested action |
+| --- | --- | --- | --- | --- | --- |
+| B3M1-C01 | 1 | Whole test | **No item tests the L1–L4 grammar.** Every selected-response and gap item tests vocabulary or comprehension: Part 9's cloze (46–50) tests words, and Part 5 is a word bank. Already/yet, participle phrases, relative pronouns and reported speech appear only in passages (`Feeling a strong sense of achievement, …`, `Jane Miller, who is …`, `My mother said that taking breaks was …`). A mock test for SB3 never makes the student produce or choose any of the four structures | error (if the mock test is held to `strict`) | Make two or three Part 9 gaps grammar items with grammar options: `Feeling / Felt / Feel` (L2), `who / which / whose` (L3), `said that it was / says that it is` (L4), `already / yet / still` (L1) |
+| B3M1-C02 | 2 | p13 Part 7 (Finn) | `I wish I could visit the countryside again.` — *wish* + past is taught in **Book 5 L4**, two books later | editorial (read only) | `I hope I can visit the countryside again.` or `I want to visit the countryside again.` |
+| B3M1-C03 | 2 | p12 Part 7 (Madison) ×2; p14 Part 8 ×2; p17 Part 9 ×2; p19 Part 10 ×1 | **Past perfect, 7 times.** It is taught in **SB3 L5** (`I Had Shown Up Early`), with reported past perfect in L7, after this test's scope: `they had ever experienced`, `our school had chosen`, `a student from our school had won a place`, `told me that I had won second place`, `what I had learned`, `what our team had done`, `I had already spent a long time` | editorial (read only, but Q44's gap and Q50's sentence sit next to it) | Use simple past or present perfect: `the most memorable trip they have ever had`, `why our school chose this place`, `told me that I won second place`, `what I learned`, `what our team did`, `I already spent a long time` |
+| B3M1-C04 | 2 | p14 Part 8; p17 Part 9 | `asked me to fill out a form`, `asked them to be part of the video` — reported requests (ask/tell + object + to) are the heading of **SB3 L6** (`The Doctor Told Me to Rest`). *Ask someone to* is also an ordinary verb pattern, so this is borderline | editorial | Keep it, or use `gave me a form to fill out` |
+| B3M1-C05 | 3 / 3b | p16–17 Part 9 | The passage depends on words in no G-Star list up to SB3: `news anchor`, `anchoring`, `broadcasting company`, `journalism`, `scripts`, `viewers`. *Worthwhile* is taught in **SB3 L5**. The topic is not a content-book domain, and the words are not glossed | editorial | Gloss `news anchor` (the series' `Note` box style: `A news anchor is the person who reads the news on TV.`), or swap *worthwhile* for `made all our hard work feel useful` |
+| B3M1-C06 | 3b | p9–10 Part 6 | The invoice and email use `invoice`, `tenant`, `insurance`, `utilities` (also in Q31 B), `rent period`, and percentages with arithmetic. The words are in no list up to SB3, and this is the hardest-reading text in the test | editorial | Gloss `utilities` / `invoice`, or say `bills` in Q31 B |
+| B3M1-C07 | 3 | p15 Q48 option B | `careless` is first listed in Book 6 L6. It is a distractor and a common word, so not above level | none (recorded so it is not flagged) | — |
+
+Words from later lists that appear but are **not** findings, because they are common and not above the level: `order` (SB3 L8, used as "order food"), `souvenir` (B4 review), `preparation` (B4, in the Part 4 title), `progress` (B5, in the Part 4 audio), `celebrate` and `explain` (B4).
+
+Reported speech without backshift (`Mr. Kim said that we can only pay`, `The organizer also said that everyone will get`, `Mom said that the parade starts at 7 PM`, `She said that being a news anchor is also one type of journalism`) is **not** a conformance fault. Each reports something still true or still in the future, which L4's grammar allows.
+
+The writing and speaking prompts recycle the target words well: hotel facilities, food stands, inspired, stand out, self-taught, proud of, certificates, a lively parade, explore, memorable, popular, useful, go sightseeing.
+
 ## Checked and correct (negative controls)
 
 - **Part 1 keys** C B D D B all follow the audio (check-in, table full at 6:30, the parade in the evening, pet clothes, the classroom shelf).
@@ -131,3 +170,4 @@ Key: physical 3–5 = key pages 1–3 (answer sheet with answers), 6 = criteria,
 - 10 test-book faults, including the points total (B3M1-01), the missing `c)` and the "three extra sentences" instruction.
 - 6 audioscript faults. A01 is the serious one: a whole turn of Part 2 is missing and Q10's distractors depend on it. Check the recording, not just the script.
 - 2 model-answer typos and 16 editorial candidates.
+- Conformance: the vocabulary is exactly SB3 L1–4 (all 40 words appear), but **no item tests the L1–4 grammar** (C01). There are nine forward references in the reading texts, all read only: *I wish I could* (Book 5, C02), past perfect ×7 (SB3 L5, C03) and *worthwhile* (SB3 L5, C05). Two more are borderline: *asked me / them to* (SB3 L6, C04). The Part 6 and Part 9 texts read above the level (C05–C06).
