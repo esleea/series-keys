@@ -45,6 +45,10 @@ L5–L8 are files 6–9.
   paragraph markers that match F.
 - **H** is a rubric that checks the goals and the plan.
 
+**The model texts as writing** (paragraph flow, story logic, repetition), with A2 replacement texts
+and callouts for all eight lessons, are in the companion file `gstar-b4-writer-pre-mock-1-model-texts.md`
+(added 14 Oct after the owner's review). Where the two disagree, the companion wins.
+
 Ids are `W4D-nn`. **Must fix** means wrong or harmful as drafted: an error in the English, a wrong or
 double answer, a contradiction, a callout that teaches something false, content unfit for the age, or a
 breach of a rule already decided. **Should fix** means a recommendation. Proposed C/F redesigns are
@@ -291,29 +295,14 @@ F uses the same boxes, except that `would` becomes `Two sentences with "would" I
 | W4D-26 | p26 B | `Ticket holders who want to refund their tickets, please submit your request before then.` | Mixes a statement and a command. Ticket holders *get* refunds; the company refunds | `Ticket holders who want a refund should send a request before then.` |
 | W4D-27 | p26 B | `PlayTV did not hide the news … to keep people from refunding their tickets.` | Rebuts an accusation that is never stated, so the reader cannot follow it | Say the rumour first: `Some people said that PlayTV hid the news so that fans could not get refunds. This is not true.` |
 | W4D-28 | p26 B | `the disappointment and confusion that this change caused to our viewers` | *cause* takes a direct object | `… that this change has caused our viewers` |
-| W4D-29 | p26 B and callout | `Undeniably, this is false.`; callout `such as: undeniably, certainly, or unquestionably` | `Undeniably, this is false` is unidiomatic for children. All three words are above A2, only one is modelled, and these are adverbs, not "transition words". Also no colon after *such as* | B `This is absolutely not true.` Callout `Use words that show you are sure, such as definitely, certainly, or absolutely.` Model two of them |
+| W4D-29 | p26 B and callout | `Undeniably, this is false.`; callout `such as: undeniably, certainly, or unquestionably` | `Undeniably, this is false` is unidiomatic for children. All three words are above A2, only one is modelled, and these are adverbs, not "transition words". Also no colon after *such as* | Callout `Use words that show you are sure, such as definitely and certainly.` Model both (companion, L5) |
 | W4D-30 | p29 F Ideas | `a book party release` | Word order | `a book release party` |
 | W4D-31 | p28 D5 | `information center`: only *information* is highlighted | The highlight covers half the headword | Highlight `information center` |
 
 **Model vs task (L5).** B is a company correcting a rumour and apologizing. F's ideas are a school
 fair, a train delay, a book release party and a new business. Students who copy B's structure (clear
 up a rumour, deny it, apologize) have nothing to deny, and C's three body points do not transfer. Use
-a plain announcement that the F ideas can copy, with the same SB4 L5 grammar:
-
-> **Announcement: Sports Day Moved to May 20**
->
-> Sports Day will not take place this Friday as planned.
->
-> The school track **is being repaired**, so students **can't** use it this week. Sports Day will
-> **definitely** take place on Friday, May 20.
->
-> Students who signed up will keep their places. Families will still **be able to** watch.
->
-> It will **certainly** be hot, so please bring a hat and water.
->
-> We are sorry for the change, and we hope to see you all there!
-
-This lays out as C, F and G need: an introduction, three body points and a closing.
+a plain announcement that the F ideas can copy. The replacement text is in the companion file (Lesson 5).
 
 **C (L5) problems:** Body 1 is pre-filled, and its bullet 3 (`Apologize for disappointing viewers.`)
 is an instruction, not a point from the text. There is no slot for the emphasis words.
@@ -326,7 +315,7 @@ That keeps G's five markers (introduction, 1, 2, 3, closing).
 - **B:** `Artist Ned Scott` → `the artist Ned Scott`. `First, … Secondly,` → `First, … Second,`.
   `Refund requests are being reviewed until July 10th` → `will be accepted until July 10`.
 - **Word Corner:** *outrage* is negative and not usable in G. Useful words for announcements:
-  *schedule, location, reminder, sign up, notice*.
+  *take place, sign up, schedule, location, reminder* (all used in the companion's L5 text).
 - **E-A1:** `examine something carefully` → `to examine …`.
 - **Image:** the ticket stamp reads `CANCELLED` (British). H: `and / or` → `and/or`.
 
@@ -344,10 +333,7 @@ That keeps G's five markers (introduction, 1, 2, 3, closing).
 **Model vs task (L6).** The title (`Why Don't We Get Enough Nutrients?`) and the thesis (`there are two
 main causes`) **explain causes**; they take no side. F's ideas all **take a side** (`why homework is bad
 for students`). A Level 4 student needs a model with one clear opinion and two reasons, each with a
-checkable fact. For example: *Why Children Need More Sleep* (then swap F's idea `why naps are important for us`, or students will copy the model), using the US Centers for Disease Control
-and Prevention figure that children aged 6–12 need 9–12 hours, and a class survey (*In my class, 18 of
-25 students sleep less than nine hours*). That model also shows students how to collect data (W4D-36).
-Keep the SB4 L6 tag question in the opening (`Sleep is important, isn't it?`).
+checkable fact. The replacement (*Why Children Should Go to Bed Earlier*, with a doctors' figure and a class survey) is in the companion file (Lesson 6).
 
 **C/F (L6)** are sound (Opinion, Title, Introduction, two Explanations with `Facts / Statistics:`,
 Conclusion) and all blank. Add one line to each: `Opinion words I used:` (goal 3). In F, change
@@ -379,9 +365,7 @@ question with one answer.
 
 **Should fix (L7):**
 - **Goal 1** and G say `five-act structure`. *Act* is a drama term; use `five-part story`.
-- **Callouts:** *consequences* (SB6) and *overcome* (SB5) are later-book words. Falling Action → `What
-  happens after the climax.` Resolution → `The ending. It shows how the character or the story has
-  changed.`
+- **Callouts:** *consequences* (SB6) and *overcome* (SB5) are later-book words. The replacement callouts (Falling action `Show what happens because of the choice.`, etc.) are in the companion file, L7.
 - **Yellow note:** the list items are not parallel (`(3) open ending (doesn't clearly say …)`).
 - **B:** `She might not know how` → `She did not know how`. (`snuck` is standard US English and stays.)
 - **E-B2:** `too harsh of a punishment` → `too harsh a punishment`.
@@ -429,7 +413,7 @@ question with one answer.
 | W4D-53 | p3 C instruction (L1) | `Read the story again and complete the graphic organizer. Then answer the question.` | There is no question; the task is `Write three metaphors …`, and one is pre-filled | `… Then write the other two metaphors from the story.` |
 | W4D-54 | p44 B (L8) | `The sugar in milk is called galactose.` | **False.** Milk sugar is lactose, which is made of glucose and galactose. It also contradicts L6 (`a type of sugar called lactose`) | `The sugar in milk is called lactose.` |
 | W4D-55 | p44 B (L8) | `bread and pasta contain a type of sugar`; `starchy foods … have a type of sugar called glucose` | These foods contain **starch**, which the body breaks down into glucose. The paragraph's point rests on it | `Bread, pasta, rice, and potatoes contain starch. The body breaks starch down into glucose.` |
-| W4D-56 | p32 B and callout (L6) | The callout `State your opinion.` points at `In my opinion, there are two main causes.` | That is a claim about causes, not an opinion. The callout teaches something false, and C/F's `Opinion` box has no opinion to take | Part of replacing the model: one clear opinion (`In my opinion, children need more sleep.`) |
+| W4D-56 | p32 B and callout (L6) | The callout `State your opinion.` points at `In my opinion, there are two main causes.` | That is a claim about causes, not an opinion. The callout teaches something false, and C/F's `Opinion` box has no opinion to take | Part of replacing the model: one clear opinion (`In my opinion, children should go to bed earlier.`, companion L6) |
 | W4D-57 | p39 C `Type of Ending` (L7) | — | Against the yellow note, the drafted ending is both **sad** (she loses Iggy) and **open** (it does not say what happens). The key splits | The W4D-43 climax (Iggy can be rebuilt) gives one answer. Otherwise make the ending clearly one type |
 | W4D-58 | back page | `in any form or by means electronic, mechanical, photocopying, or otherwise` | `any` is missing (the same fault as Writer 3) | `in any form or by any means, electronic, mechanical, photocopying, or otherwise` |
 
