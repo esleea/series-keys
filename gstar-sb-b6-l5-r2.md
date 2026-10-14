@@ -50,7 +50,7 @@ was found.** L6's audio uses the third conditional (SB4) and L8 uses inversion a
 only* and *nor* (SB6 L7). Both are allowed. What these lessons get wrong is **how the taught grammar
 is used**: a lesson's own target structure is misused in its own text 14 times (marked ★).
 
-**The texts as writing** (authenticity, level against B1, paragraph flow, logic) are reviewed in the companion file `gstar-sb-b6-l5-r2-texts.md`.
+**The texts as writing** (authenticity, level against B1, paragraph flow, logic) are reviewed in the companion file `gstar-sb-b6-l5-r2-texts.md`. Whether the grammar explanations are clear to students, and whether each text models its lesson's grammar, is in `gstar-sb-b6-l5-r2-grammar-explanations.md`.
 
 Ids are `SB6B-nn`. **Must fix** means wrong as printed. **Should fix** means a recommendation.
 
@@ -88,9 +88,9 @@ Ids are `SB6B-nn`. **Must fix** means wrong as printed. **Should fix** means a r
 | SB6B-15 | 49 | L6 Reading `Gathering resources and operating factories … release carbon dioxide`; `The low-quality products being thrown away creates more waste` | `create` (*products* is plural). The first half was wrong: two gerunds joined by *and* take `release` (second review) | yes |
 | SB6B-16 | 49 | L6 Note 4 `A landfill is a place where large amounts of trash is collected and buried.` | `are collected and buried` | yes |
 | SB6B-17 | 48 | L6 Reading `People can go into debts`; `a brand of water bottles recently became viral`; `A blind box is a packaging filled with …` | `go into debt`; `went viral`; `a box filled with …` (*packaging* is uncountable) | yes |
-| SB6B-18 ★ | 51 | L7 Reading `Not only is DRAM needed by gadget makers, it's also needed by AI companies now.` | `Not only is DRAM needed by gadget makers, **but** it is **also** needed by AI companies.` The lesson's own grammar box models `Not only did …, they also …`, which has the same gap; add `but` there too | yes |
-| SB6B-19 ★ | 51 | L7 Reading `Only then will the prices for electronic devices may go down.` | Two modals: `Only then will prices for electronic devices go down.` | yes |
-| SB6B-20 | 51 | L7 Reading `To make profit, companies need to sell them at a higher price.` | `To make a profit` | yes |
+| SB6B-18 ★ | 51 | L7 Opening `Not only is DRAM needed by gadget makers, it's also needed by AI companies now.` | `Not only is DRAM needed by gadget makers, **but** it is **also** needed by AI companies.` The lesson's own grammar box models `Not only did …, they also …`, which has the same gap; add `but` there too | yes |
+| SB6B-19 ★ | 51 | L7 Opening `Only then will the prices for electronic devices may go down.` | Two modals: `Only then will prices for electronic devices go down.` | yes |
+| SB6B-20 | 51 | L7 Opening `To make profit, companies need to sell them at a higher price.` | `To make a profit` | yes |
 | SB6B-21 | 52 | L7 Vocab 4 `His failures didn't make him feel discouraged. Instead, they motivate him.` | `they motivated him` | yes |
 | SB6B-22 | 52 | L7 Vocab 9 `My knowledge about technology is very little.` | `I know very little about technology.` (or `My knowledge of technology is very limited.`) | yes |
 | SB6B-23 ★ | 52 | L7 Vocab 10 `Having competed in gymnastics for many years, he had never won a medal once.` | A perfect participle phrase shows **cause** or sequence, and this is a contrast. `never … once` is also doubled. `Although he competed in gymnastics for many years, he never won a single medal.` | yes |
