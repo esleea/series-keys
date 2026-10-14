@@ -50,6 +50,8 @@ was found.** L6's audio uses the third conditional (SB4) and L8 uses inversion a
 only* and *nor* (SB6 L7). Both are allowed. What these lessons get wrong is **how the taught grammar
 is used**: a lesson's own target structure is misused in its own text 14 times (marked ★).
 
+**The texts as writing** (authenticity, level against B1, paragraph flow, logic) are reviewed in the companion file `gstar-sb-b6-l5-r2-texts.md`.
+
 Ids are `SB6B-nn`. **Must fix** means wrong as printed. **Should fix** means a recommendation.
 
 ## Must fix before print
@@ -193,6 +195,8 @@ Ids are `SB6B-nn`. **Must fix** means wrong as printed. **Should fix** means a r
 | SB6B-74 | 56 | L7 Reading `Arguments have broken out during practice because both fencers think … Only then did the arguing stop.` | The tenses say the arguing still happens | `Arguments used to break out … because both fencers thought …` | yes |
 | SB6B-75 | 56 | L7 Reading `In sabre, points are scored using both the tip and the side of the blade.` | The flat side does not score | `the tip and the edge of the blade` | yes |
 | SB6B-76 | 51 | L7 Reading header `SIgn In`; byline `Denise Jacob` | — | `Sign In`; `Denise Jacobs` (as in the manuscript) | print only |
+| SB6B-77 | 40 | L5 Reading `anecdotes¹`, `hoaxes²`, `verified³` | The superscripts point to a Note box that is not printed (nor written in the manuscript) | Add the three notes (see `gstar-sb-b6-l5-r2-texts.md`) | yes |
+| SB6B-78 | 53 | L7 Usage 2 `$150 deposit¹` | The note is missing | `¹ A deposit is money you pay first and get back later.` | yes |
 
 ### Should fix
 
@@ -284,7 +288,7 @@ Ids are `SB6B-nn`. **Must fix** means wrong as printed. **Should fix** means a r
 ## Summary
 
 - **Key problems:** four remain must-fix. Two reading T/F items cannot be settled from the text (K03, and K04 as a should-fix). The Review 2 Ex4 Q1 item has no evidence to settle it (K05). The L8 notes have no word limit (K06). Review 2 Ex3 Q3 has two answers, *proves* and *reveals* (K07). K01 and K02 became should-fix.
-- **Grammar errors: 50 found by hand plus 10 from the second review (67–76), less 4 downgraded.**
+- **Grammar errors: 50 found by hand plus 12 from the second review (67–78, incl. two missing note boxes), less 4 downgraded.**
   **20 misuse the lesson's own target structure (★)**, for example:
   - `Only then will the prices … may go down`;
   - `persisted to do`;
