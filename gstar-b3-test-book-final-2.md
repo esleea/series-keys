@@ -1,7 +1,7 @@
 # Control: G-Star Test Book 3, final print file with answer key — second check
 
 Hand proofread on 18 November 2026 of the revised G-Star Test Book 3, its answer key and its
-audioscript, read cover to cover. Ids continue from the 9 November reports
+audioscript, read cover to cover. This is the overall report, one of three: it covers keys, sentences, audio and the 9 November findings. The other two are `gstar-b3-test-book-final-2-texts.md` (new: T05–T11) and `gstar-b3-test-book-final-2-grammar.md`. Ids continue from the 9 November reports
 (`control-2026-11-09/gstar-b3-test-book-final{,-texts,-grammar}.md`, TB3F-…). A first version of
 this report, published earlier the same day, re-read only what had changed since 9 November. This
 version replaces it.
