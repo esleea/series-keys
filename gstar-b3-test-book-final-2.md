@@ -1,14 +1,16 @@
 # Control: G-Star Test Book 3, final print file with answer key — second check
 
 Hand proofread on 18 November 2026 of the revised G-Star Test Book 3, its answer key and its
-audioscript. This round checks the 18 November files against the 9 November reports
-(`control-2026-11-09/gstar-b3-test-book-final{,-texts,-grammar}.md`, ids TB3F-…) and re-checks
-everything that changed.
+audioscript, read cover to cover. Ids continue from the 9 November reports
+(`control-2026-11-09/gstar-b3-test-book-final{,-texts,-grammar}.md`, TB3F-…). A first version of
+this report, published earlier the same day, re-read only what had changed since 9 November. This
+version replaces it.
 
-**Verdict: ready to print once one owner decision is made.** The answer key is still right for
-every item. 28 of the 9 November findings are fixed, including every must-fix but one: there are
-still no scoring criteria for L3's listen-and-repeat speaking (TB3F-06). Nothing that changed
-introduced a new error that affects an answer. Thirteen smaller items are still open, and two new small ones are listed below.
+**Verdict: nearly ready; two must-fixes remain.** The answer key is still right for every item. 28 of
+the 9 November findings are fixed, including every 9 November must-fix but one: there are still no
+scoring criteria for L3's listen-and-repeat speaking (TB3F-06). Reading cover to cover found one
+item I missed on 9 November: L6 Listening Q6 has two defensible pictures (TB3F-35). Thirteen smaller
+9 November items are still open, and this round adds twelve new small ones.
 
 | File | Bytes | Pages | sha256 |
 | --- | --- | --- | --- |
@@ -19,18 +21,16 @@ introduced a new error that affects an answer. Thirteen smaller items are still 
 The 9 November files are still in the same WeChat folder, and their sha256 match that report.
 
 **How it was checked.**
-- **Text.** I diffed the text of the new book, key and script against the 9 November files,
-  and read and re-solved every changed line and item.
-- **Pages.** I rendered every page of the old and new book at low resolution and compared them
-  pixel by pixel. 15 pages differ. Each difference is a text change from the diff (pp16, 18,
-  24, 35, 45, 49, 57, 59–60, 66, 70, 75), the cover or the certificate, except the two picture
-  pages. I viewed those images: p34 (L4 Q7) and p60 (L6 Speaking). I also viewed p35, p43 and a
-  zoom of L5 Q6.
-- **Key bubbles.** I read the key's multiple-choice bubbles with the same script as for Test
-  Book 4. All 16 answer-sheet pages agree with the key I solved on 9 November, and the
-  text-layer answers changed only where the 9 November report asked.
-- **What I did not do.** Pages that did not change were not re-read line by line; they were
-  read in full on 9 November. Nothing paid ran, and **I did not hear the recording**.
+- **Read cover to cover.** I read the whole book, key and audioscript myself: every lesson page
+  from the text layer, and every page image wherever an item depends on a picture or a layout.
+  Zooms where pictures are small: L3 Q6, L5 Q6, L6 Q5.
+- **Solved every item.** All 168 scored items were solved again and compared with the key.
+- **Key.** Every key page was read as an image. The multiple-choice bubbles were also read by
+  script; they agree with the page images and with my 9 November key.
+- **Regression.** For the 9 November table, I also diffed the text against the 9 November files
+  and compared every page render pixel by pixel. That is how pictures that changed with no text
+  change were caught: p34 L4 Q7 and p60 L6 Speaking.
+- **Not done.** Nothing paid ran, and **I did not hear the recording**.
 
 Page numbers are printed pages (physical = printed + 3).
 
@@ -38,6 +38,7 @@ Page numbers are printed pages (physical = printed + 3).
 
 | Id | Page | Item | Status | Correction | Fix in |
 | --- | --- | --- | --- | --- | --- |
+| TB3F-35 | 54 | L6 Listening Part 2 Q6 (key A, the leg cramp) | **New, missed on 9 November.** Picture C (the boy resting on the bench with a drink) also happened: `I sat on the bench for the rest of practice.` The question (`What happened to the boy at soccer practice?`) is heard only, so nothing on the page points to the cramp rather than the rest | Redraw C as a scene the audio rules out (the boy scoring a goal), or ask `What happened to the boy's leg?` | book (or script + recording) |
 | TB3F-06 | 83–84 | Scoring criteria | **Still open.** L3 Speaking (p30) is listen-and-repeat. Neither set fits it (`Speaks independently`, `Completes the task within the time limit`), yet the L3 score box has five criteria | Add `Speaking – Repeating Sentences` criteria, or say which set L3 uses | book + key |
 
 ## Still open from 9 November (should fix)
@@ -64,6 +65,16 @@ Page numbers are printed pages (physical = printed + 3).
 | --- | --- | --- | --- | --- | --- | --- |
 | TB3F-30 | 59–60 | L6 Speaking (reworded instead of redrawn, TB3F-18) | `Here are some pictures that show different situations about health.` | The new framing works with the flu-shot and check-up pictures; the phrase is awkward | `different health situations` | book |
 | TB3F-31 | script | L6 Listening Part 3 (Joy, rewritten) | `promised to give it to her when she goes back to school` | Tense inside a past report; L6 is reported speech | `when she went back to school` | script + recording |
+| TB3F-32 | 8 | L1 Writing prompt | `You are on a vacation with your family.` | The key model was fixed to `on vacation`; the prompt was not | `You are on vacation with your family.` | book |
+| TB3F-33 ★ | script | L4 Listening Part 3 Q9 (Ashley) | `She said that she wants to visit the market again.` | L4 teaches the backshift after a past reporting verb; Lena's and Evan's turns use it | `She said that she wanted to visit the market again.` | script + recording |
+| TB3F-34 | 38, 58 | L4 and L6 Writing | `Write the story shown in the pictures.` with no grammar requirement | Reported speech is the target in both lessons; L2, L3, L5, L7 and L8 name their grammar | Add `Use at least two sentences with reported speech.` (owner's call) | book |
+| TB3F-36 | script | L8 Listening Part 3 (Sadie) | `I was worried that I couldn't go to work that day` | | `I was worried that I wouldn't be able to go to work that day` | script + recording |
+| TB3F-37 | 80 | L8 Speaking passage | `I kept the same hairstyle as part of my daily routine.` | A hairstyle is not a routine; the easy-to-maintain point is | `It was easy to style, so it became part of my daily routine.` | book |
+| TB3F-38 | 20 | L2 Speaking passage | `But, she still finished her story` | No comma after a sentence-opening *But* | `But she still finished her story` | book |
+| TB3F-39 | 75 | L8 Reading Part 1 (Flora's email) | `the kitchen faucet  started leaking again last night` … `so he ordered a new one … The new faucet has already arrived` | Double space. The faucet is ordered after last night's leak and has already arrived | Single space; `The new faucet will arrive on Thursday.` | book |
+| TB3F-40 | 36 | L4 Reading Part 2 | `3,000 visitors participated in the survey that our reporter did.` | A sentence should not open with a numeral | `A total of 3,000 visitors took part in our reporter's survey.` | book |
+| TB3F-41 | 57 | L6 Reading Part 2 | `But in cases of emergency such as an accident, you should see a doctor right away.` | | `But in an emergency, such as an accident, you should see a doctor right away.` | book |
+| TB3F-42 | contents | Footer | `Remember to put periods . , commas , , and / or question marks ?` | Cluttered (as in Test Book 4) | `Remember to put periods, commas, and question marks in the right places.` | book |
 
 ## Fixed since 9 November
 
@@ -76,12 +87,13 @@ Page numbers are printed pages (physical = printed + 3).
 
 ## Answer key
 
-All 168 scored items have one right answer, and the key gives it. Lesson by lesson, the key equals
+All 168 scored items were solved again. The key gives the right answer for every one; TB3F-35 is a second defensible answer, not a wrong key. Lesson by lesson, the key equals
 the table in the 9 November report, with one change: L4 Reading Part 3 Q12 now reads `Tom said
 that he and Jim …` (G04).
 
 ## Open questions for the owner
 
 1. Which speaking criteria should L3's listen-and-repeat use (TB3F-06)?
-2. Has the audio been recorded from the 10 November script? If so, TB3F-28, T02 and 31 need
+2. Redraw L6 Q6 picture C, or change the question (TB3F-35)?
+3. Has the audio been recorded from the 10 November script? If so, TB3F-28, T02, 31, 33 and 36 need
    re-recording, and the G01 and G02 fixes need checking in the recording.
